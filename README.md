@@ -19,10 +19,6 @@ This project implements a machine learning solution to predict equipment failure
 - **User-Friendly Interface**: No technical expertise required
 - **Downloadable Reports**: Export predictions for record-keeping
 
-## 🚀 Demo
-
-![Demo Screenshot](screenshots/demo.png)
-
 ## 📊 Model Performance
 
 - **Algorithm**: Balanced Random Forest Classifier
